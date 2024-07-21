@@ -1,4 +1,4 @@
-<h1> $ who\am\i; <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1><code>$ who\am\i;</code></h1> <img src = "https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif" width = 50px> </h1>
 <p align='center'>
 <h3 align="center">Security Researcher and a Linux  Enthusiast. Learning about Red teaming and busy in hunting bugs</h3>
 </p>
