@@ -5,22 +5,19 @@
 
 
 ```bash
-name = 'MR EFF3CT007', 'Aashray', 'Jan', 'रहस्यमय प्रभाव'
-what_I_Do = ['Security Researcher','Student','RedTeamer']
+who/am/i = 'MR EFF3CT007', 'Aashray', 'Jan', 'रहस्यमय प्रभाव'
+what_I_Do = ['Security Researcher','RedTeamer']
 Country = ['Nepal']
 ```
-Others:
-- 🔭 I’m currently working [My Instagram Page](https://www.instagram.com/blackhat_info/)
+###More about me : <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPV8nlzTLmeq8FuVOr-lZhJHmQUM80BPpI7w&usqp=CAU" width =40px>
+- 😃I own one of the Instagram Page related to Cyber Security & Ethical Hacking [My Instagram Page](https://www.instagram.com/blackhat_info/)
 
-- 🌱I'm Currently Busy at **Hunting Bugs, Learning About Redteaming**
+- ✌️I'm Currently Busy at **Hunting Bugs, Learning About Redteaming**
 
-- 💬 Ask me about **Hacking,Linux,Python,**
-
-- 📫 Reach me **blackhatinfo12@gmail.com**
+- 📫 Reach me **mr.eff3ct.sec007@gmail.com**
 
 - ❤ RelationShip Status **In Relationsleep Read Again!💔🥺🤟**
 
-- ❤ I basically love Python the most
 
 <h3 align="left">My Skills :</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" 
