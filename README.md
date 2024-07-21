@@ -7,8 +7,8 @@
 
 ### About ME 🤟😎
 ```bash
-name = "MR eff3ct_007"
-what_I_Do = ['Bug Hunter','Programmer','Security Researcher',','Student']
+name = "MR EFF3CT007 Aashray,Jan,रहस्यमय प्रभाव"
+what_I_Do = ['Security Researcher','Student','RedTeamer']
 Country = ['Nepal']
 ```
 Others:
