@@ -6,7 +6,7 @@
 
 
 ### About ME 🤟😎
-```Python
+```bash
 name = "MR eff3ct_007"
 what_I_Do = ['Bug Hunter','Programmer','Security Researcher',','Student']
 Country = ['Nepal']
