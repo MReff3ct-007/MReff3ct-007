@@ -7,7 +7,7 @@
 
 ### About ME 🤟😎
 ```bash
-name = "MR EFF3CT007 Aashray,Jan,रहस्यमय प्रभाव"
+name = 'MR EFF3CT007', 'Aashray', 'Jan', 'रहस्यमय प्रभाव'
 what_I_Do = ['Security Researcher','Student','RedTeamer']
 Country = ['Nepal']
 ```
