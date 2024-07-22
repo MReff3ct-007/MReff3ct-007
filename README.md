@@ -1,4 +1,4 @@
-<h1><code>$ who\am\i;</code> <img src = "https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif"</h1>
+<h1><code>$ who\am\i;</code> <img src = "[https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl4cGwxcHVxcW90d3JhNnMybHM5MXFzNWl1c2x3c3k1a2FpcDRpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kglwHpy9SexXV8X48W/giphy.webp)" width =50px> </h1>
 <p align='center'>
 <h3 align="center">MR EFF3CT007*(रहस्यमय प्रभाव 007) 99% Intentionally Mystic,🕉️</h3>
 </p>
