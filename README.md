@@ -1,4 +1,4 @@
-<h1><code>$ who\am\i;</code> <img src = "[https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl4cGwxcHVxcW90d3JhNnMybHM5MXFzNWl1c2x3c3k1a2FpcDRpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kglwHpy9SexXV8X48W/giphy.webp)" width =50px> </h1>
+<h1><code>$ who\am\i;</code> <img src = "https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif" width = 50px> </h1>
 <p align='center'>
 <h3 align="center">MR EFF3CT007*(रहस्यमय प्रभाव 007) 99% Intentionally Mystic,🕉️</h3>
 </p>
@@ -9,7 +9,7 @@ who/am/i = 'MR EFF3CT007', 'Aashray', 'Jan', 'रहस्यमय प्रभ
 what_I_Do = ['Security Researcher','RedTeamer']
 Country = ['Nepal']
 ```
-###More About Me : <img src ="https://media.tenor.com/LRT5oayxaKIAAAAM/guy-fawkes-mask.gif" width =60px> 
+###More About Me : <img src ="https://i.pinimg.com/originals/b0/56/2c/b0562cb539e984d1e6904201c532fc4c.gif" width =40px> 
 
 - 😃I own one of the Instagram Page related to Cyber Security & Ethical Hacking [My Instagram Page](https://www.instagram.com/blackhat_info/)
 
@@ -26,6 +26,12 @@ align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="
 align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"
 align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
+  
+<h3 align="left">Find ME:</h3>
+<p align="left">
+<a href="https://instagram.com/eff3ct_effect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eff3ct_effect" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmqnkbqena7awpa9fqxjcsq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCyffPUpe6u3wo2TI3DavGFA" height="30" width="40" /></a>
+</p>
   
 <h3 align="left">Find ME:</h3>
 <p align="left">
