@@ -1,4 +1,4 @@
-<h1><code>$ who\am\i;</code> <img src = "https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif" width = 50px> </h1>
+<h1><code>$ who\am\i;</code> <img src = "https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif"</h1>
 <p align='center'>
 <h3 align="center">MR EFF3CT007*(रहस्यमय प्रभाव 007) 99% Intentionally Mystic,🕉️</h3>
 </p>
