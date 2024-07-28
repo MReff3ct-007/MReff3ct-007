@@ -1,4 +1,4 @@
-<h1><code>$ who\am\i;</code> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BpZ2Z3bGpuanU5eTl3cW8waHVpZ293bnd1eWI3YWRwdngxNTJjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OKOG5A1yll8yLp0vA4/giphy.gif" width = 50px> </h1>
+<h1><code>$ who\am\i;</code> <img src = "https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif" width = 50px> </h1>width = 50px> </h1>
 <p align='center'>
 <h3 align="center">MR EFF3CT007*(रहस्यमय प्रभाव 007) 99% Intentionally Mystic,🕉️</h3>
 </p>
@@ -9,7 +9,7 @@ who/am/i = 'MR EFF3CT007', 'Aashray', 'Jan', 'रहस्यमय प्रभ
 what_I_Do = ['Security Researcher','RedTeamer']
 Country = ['Nepal']
 ```
-###More About Me : <img src ="[https://s5.ezgif.com/tmp/ezgif-5-7033033889.webp](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BpZ2Z3bGpuanU5eTl3cW8waHVpZ293bnd1eWI3YWRwdngxNTJjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OKOG5A1yll8yLp0vA4/giphy.gif)" width =40px>  
+###More About Me : <img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZ6MDFsMG5wNGo4bW5jM29ramFiM29mZXA4czZpZGFwZWZzMm1xYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIDD9ivcLLzIoLFxCC/giphy.gif" width =40px>  
 
 - 😃I own one of the Instagram Page related to Cyber Security & Ethical Hacking [My Instagram Page](https://www.instagram.com/blackhat_info/)
 
