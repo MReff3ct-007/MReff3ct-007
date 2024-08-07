@@ -13,9 +13,9 @@ Country = ['Nepal']
 
 - 😃I own one of the Instagram Page related to Cyber Security & Ethical Hacking [My Instagram Page](https://www.instagram.com/blackhat_info/)
 
-- ✌️I'm Currently Busy at **Hunting Bugs, Learning About Redteaming**
+- ✌️I'm Currently Busy at **Hunting Bugs, Learning About Redteaming and WebApp Pentesting**
 
-- 📫 Reach me **mr.eff3ct.sec007@gmail.com**
+- 📫 Reach me **mr.eff3ct.sec007@gmail.com***
 
 - ❤ RelationShip Status **In Relationsleep Read Again!💔🥺🤟**
 
