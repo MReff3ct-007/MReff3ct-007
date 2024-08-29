@@ -1,4 +1,4 @@
-<h1><code>$ who\am\i;</code> <img src = "https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif" width = 50px> </h1>width = 50px> </h1>
+<h1><code>$ who\am\i;</code> <img src = "https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif" width = 50px> </h1> 
 <p align='center'>
 <h3 align="center">MR EFF3CT007*(रहस्यमय प्रभाव 007) 99% Intentionally Mystic,🕉️</h3>
 </p>
@@ -13,9 +13,11 @@ Country = ['Nepal']
 
 - 😃I own one of the Instagram Page related to Cyber Security & Ethical Hacking [My Instagram Page](https://www.instagram.com/blackhat_info/)
 
-- ✌️I'm Currently Busy at **Hunting Bugs, Learning About Redteaming and WebApp Pentesting**
+- ✌️I'm Currently Busy at **Hunting Bugs, Learning About Redteaming,hardware & IOT hacking and WebApp Pentesting**
 
 - 📫 Reach me **mr.eff3ct.sec007@gmail.com***
+
+- 📝My WriteUP's [Medium](https://medium.com/@mr.eff3ct.sec007)
 
 - ❤ RelationShip Status **In Relationsleep Read Again!💔🥺🤟**
 
