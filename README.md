@@ -6,7 +6,7 @@
 
 ```bash
 who/am/i = 'MR EFF3CT007', 'Aashray', 'Jan', 'रहस्यमय प्रभाव'
-what_I_Do = ['Security Researcher','RedTeamer']
+what_I_Do = ['Security Researcher','RedTeamer','IOT enthusiast']
 Country = ['Nepal']
 ```
 ###More About Me : <img src ="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ac8288c5-f7c6-4250-9612-5b7cbc6ae7e9/dae9eku-bfaf362e-71be-4e75-9c94-477b876c5373.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FjODI4OGM1LWY3YzYtNDI1MC05NjEyLTViN2NiYzZhZTdlOVwvZGFlOWVrdS1iZmFmMzYyZS03MWJlLTRlNzUtOWM5NC00NzdiODc2YzUzNzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qckJWdbKnLxE_txEHprjJ8CXTXXsXHP7v7dJcVhVOpc" width =50px>  
@@ -17,7 +17,7 @@ Country = ['Nepal']
 
 - 📫 Reach me **mr.eff3ct.sec007@gmail.com***
 
-- 📝My WriteUP's [Medium](https://medium.com/@mr.eff3ct.sec007)
+- 📝My WriteUP's [Medium](https://medium.com/@mr.eff3ct.sec007)  
 
 - ❤ RelationShip Status **In Relationsleep Read Again!💔🥺🤟**
 
