@@ -11,9 +11,7 @@ Country = ['Nepal']
 ```
 ###More About Me : <img src ="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ac8288c5-f7c6-4250-9612-5b7cbc6ae7e9/dae9eku-bfaf362e-71be-4e75-9c94-477b876c5373.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FjODI4OGM1LWY3YzYtNDI1MC05NjEyLTViN2NiYzZhZTdlOVwvZGFlOWVrdS1iZmFmMzYyZS03MWJlLTRlNzUtOWM5NC00NzdiODc2YzUzNzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qckJWdbKnLxE_txEHprjJ8CXTXXsXHP7v7dJcVhVOpc" width =50px>  
 
-- 😃I own one of the Instagram Page related to Cyber Security & Ethical Hacking [My Instagram Page](https://www.instagram.com/blackhat_info/)
-
-- ✌️I'm Currently Busy at **Hunting Bugs, Learning About Redteaming,hardware & IOT hacking and WebApp Pentesting**
+- ✌️I'm Currently Busy at ** , Learning About Redteaming,Hardware hacking & IOT security and WebApp Pentesting**
 
 - 📫 Reach me **mr.eff3ct.sec007@gmail.com***
 
